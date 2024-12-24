@@ -96,8 +96,7 @@ function Contact() {
                         </div>
                         <div>
                             <button type="submit" 
-                                className="hover:shadow-form rounded-md bg-gray-900 py-3 px-8 text-base font-semibold text-gray-300 hover:text-blue-400 outline-none"
-                            >
+                                className="hover:shadow-form rounded-md bg-gray-900 py-3 px-8 text-base font-semibold text-gray-300 hover:text-blue-400 outline-none" >
                                 Submit
                             </button>
                         </div>
